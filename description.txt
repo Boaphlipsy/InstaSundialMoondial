@@ -1,1 +1,5 @@
-Modify this file with a description of your mod.
+Removes the cooldown for both Sundial and Moondial.
+
+Changelog:
+1.0.0
+-   Initial Release
