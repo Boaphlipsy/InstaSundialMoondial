@@ -1,0 +1,3 @@
+displayName = Insta Sundial Moondial
+author = Boaphil
+version = 0.1
